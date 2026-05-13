@@ -356,8 +356,8 @@ MIT License — free to use, modify, and distribute with attribution.
 
 Built by **[Your Name]** as part of ongoing research into low-resource Philippine language NLP and machine translation.
 
-- GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/BigCookieDough))
-- LinkedIn: [yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/joshua-silubrico-860201180/))
+- GitHub: [@yourusername](https://github.com/BigCookieDough)
+- LinkedIn: [yourprofile](https://www.linkedin.com/in/joshua-silubrico-860201180/)
 
 ---
 
