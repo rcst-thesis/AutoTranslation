@@ -354,7 +354,7 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## 👤 Author
 
-Built by **[Your Name]** as part of ongoing research into low-resource Philippine language NLP and machine translation.
+Built by **Joshua Silubrico** as part of ongoing research into low-resource Philippine language NLP and machine translation.
 
 - GitHub: [@BigCookieDough](https://github.com/BigCookieDough)
 - LinkedIn: [joshua silubrico](https://www.linkedin.com/in/joshua-silubrico-860201180/)
